@@ -1,6 +1,6 @@
 # UFCQxd-datase-estacao
 
-Este dataset será descontinuado e encontra-se desatualizado.
+Este dataset repositório será descontinuado e encontra-se desatualizado.
 
 Este repositório será descontinuado e a partir de então você deve dirigir-se a repositório do link a baixo para acompanhar os dados mais recentes.
 
